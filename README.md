@@ -1,4 +1,4 @@
-Link Theory is an original theoretical framework developed and authored by [Your Name or "El Kaye"] that explores how psychological trauma propagates through the human brain—not just biochemically, but structurally.
+Link Theory is an original theoretical framework developed and authored by [Lamha K. Ahmed that explores how psychological trauma propagates through the human brain—not just biochemically, but structurally.
 
 Rooted in network neuroscience, graph theory, topology, and trauma psychology, Link Theory proposes that neural collapse follows geometric logic. Specifically, it centers on triangle motifs—the smallest fully connected units in a network—as the brain’s fundamental structures of resilience. When these motifs break down, stress cascades across the system, triggering emotional, cognitive, and behavioral symptoms often observed in trauma.
 
