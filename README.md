@@ -1,72 +1,29 @@
-#  Link Theory: A Geometric Model of Neural Collapse
+Link Theory is an original theoretical framework developed and authored by [Your Name or "El Kaye"] that explores how psychological trauma propagates through the human brain—not just biochemically, but structurally.
 
-This repository contains the full research paper, code notebooks, visual simulations, and supplementary materials for **Link Theory** — a structural model of brain failure grounded in network science, motif geometry, and trauma research.
+Rooted in network neuroscience, graph theory, topology, and trauma psychology, Link Theory proposes that neural collapse follows geometric logic. Specifically, it centers on triangle motifs—the smallest fully connected units in a network—as the brain’s fundamental structures of resilience. When these motifs break down, stress cascades across the system, triggering emotional, cognitive, and behavioral symptoms often observed in trauma.
 
-## What is Link Theory?
+This repository contains the initial implementation of Link Theory simulations, offering:
 
-**Link Theory** proposes that the smallest unit of neural stability is not a region, but a triangle — a 3-node motif of redundant, rigid connection. When these motifs collapse under chronic stress (e.g. trauma), the failure spreads non-linearly, leading to cognitive and emotional breakdown. The project simulates this using:
+A full-length paper explaining the theory, its mathematical foundations, and neuroscience grounding
 
-- Real/simulated EEG data
-- Graph theory
-- Geodesic 3D models
-- Triangle-based motif detection and failure propagation
+Python notebooks for simulating structural failure, EEG-informed stress propagation, and 3D motif-based collapse
 
-##  What's in this Repository?
+Visualizations of stress flow, motif collapse, geodesic dome propagation, and recovery logic
 
-link-theory/
-├── LinkTheory_Paper.pdf # Full academic paper
-├── notebooks/
-│ └── link_theory_simulation.ipynb # Colab-ready code + visualizations
-├── data/
-│ └── sample_eeg.csv # EEG input for stress mapping
-├── visuals/
-│ ├── geodesic_dome.png
-│ └── collapse_sim.gif # (optional) animated collapse
-├── README.md # This file
-├── LICENSE # Your chosen license (MIT recommended for code)
-└── CITATION.cff # Citation metadata for academic use
+Modular code designed for replication, further research, and applied exploration
 
-markdown
-Copy
-Edit
+This project is entirely original and continues to evolve. The simulations presented here represent Phase I of development: building structural logic, mapping failure, and connecting empirical EEG markers to theoretical vulnerability. Ongoing work includes:
 
-## How to Run It
+Advanced failure modeling using real-time EEG data
 
-1. **Open** the `notebooks/link_theory_simulation.ipynb` file in [Google Colab](https://colab.research.google.com)
-2. **Upload EEG data** or use the built-in synthetic model
-3. **Run each cell** step by step to:
-   - Build network graphs
-   - Inject stress signals
-   - Watch triangle motif failure cascade
-   - Visualize dome collapse in 3D
+Integration of trauma-specific symptom cascades (e.g. dissociation, hypervigilance)
 
-##  Key Concepts
+Comparative modeling between healthy and trauma-exposed connectomes
 
-- **Triangle Motifs (3-cliques):** The smallest resilient structural unit
-- **Cascade Failure:** Collapse spreads topologically, not spatially
-- **Geodesic Dome:** A symbolic model of cortical redundancy
-- **EEG Integration:** Maps delta wave activity to node-level stress
-- **Failure Conditions:** Based on local collapse, neighbor loss, and motif breakdown
+Development of potential repair and recovery algorithms within the motif framework
 
-##  Paper and Theory
+All concepts, simulations, and written work are authored and copyrighted by [Your Name / El Kaye], with registration on the Open Science Framework (OSF) to ensure integrity, attribution, and transparency.
 
-See `LinkTheory_Paper.pdf` for:
-- Theoretical framework
-- Mathematical modeling
-- Simulation design
-- Interpretation of results
-- Academic references (Sporns, Giusti, Lanius, etc.)
+If you're an academic, researcher, clinician, or systems designer interested in the intersection of trauma and geometry, this project is open for review, feedback, and collaboration.
 
-
-🌐 License
-Code: MIT License
-
-Visuals & Paper: CC BY-NC-ND 4.0 (non-commercial academic use only)
-
-Acknowledgments
-This project is part of Lack of Grey Matter — an independent initiative for original research at the intersection of psychology, mathematics, trauma theory, and design.
-
-For questions, collaborations, or press:
-📧 lamhakausarahmed@gmail.com
-🌐 OSF Project: [(https://osf.io/4qcr9/?view_only=f56920e385d645658c33ed17f98e49b3)]
-
+This is not just a model of breakdown. It's a structural blueprint for understanding how the brain tries to hold.
