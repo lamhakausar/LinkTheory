@@ -1,0 +1,22 @@
+# src/config.py
+
+# Graph Parameters
+GRAPH_TYPE = 'synthetic'
+NUM_NODES = 100
+TRIANGLE_COUNT = 30
+POWERLAW_M = 3
+POWERLAW_P = 0.05
+
+# Stress Simulation
+STRESS_TYPE = 'synthetic'
+MANUAL_STRESS_NODES = [10, 25, 40]
+STRESS_THRESHOLD = 0.8
+NEIGHBOR_THRESHOLD = 0.5
+
+# Propagation Rules
+ONE_HOP_DEGRADATION = 0.1
+TWO_HOP_DEGRADATION = 0.05
+
+# Recovery Model
+ENABLE_RECOVERY = True
+RECOVERY_BOOST = 1.1
